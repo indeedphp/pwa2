@@ -1,15 +1,18 @@
 * {
+    max-width: 400px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 body {
+    max-width: 400px;
     font-size: 14px;
     font-family: sans-serif;
 }
 
 nav {
+    max-width: 400px;
     height: 30px;
     position: absolute;
     top: 0;
@@ -24,6 +27,7 @@ nav {
 }
 
 header {
+    max-width: 400px;
     height: 100px;
     background: #5d30bf;
     margin-top: 30px;
@@ -41,6 +45,7 @@ header {
 }
 
 .card {
+    max-width: 400px;
     padding: 1rem;
     border-radius: 5px;
     border: 1px solid #eee;
@@ -49,6 +54,7 @@ header {
 }
 
 .card-title {
+    max-width: 400px;
     font-size: 1.2rem;
     text-transform: capitalize;
 }
