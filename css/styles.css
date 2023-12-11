@@ -1,29 +1,13 @@
-* {
-   
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 body {
     max-width: 100%;
-    font-size: 14px;
-    font-family: sans-serif;
+    
 }
 
 
 
-header {
-   
-    height: 100px;
-    background: #5d30bf;
-    margin-top: 30px;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 1rem;
-}
+
 
 
 
